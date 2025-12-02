@@ -1,15 +1,31 @@
 PLAN DE LA PRESENTATION
 
-1- APOCALYPS
-Introduction pour la loi d'échelle
-Montrer qu'on fonce dans le mur
-Apocalyps scénario (impact sur l'environnement, social et humaine)
+Introduction : Le Blocage et l'Urgence
+Accroche: L'incident de ce matin (le train arrêté, la panne d'électricité).
+Contexte : La révolution de l'IA et l'explosion de la demande énergétique (l'infrastructure ne suit pas).
+Feuille de Route : Annonce du plan : L'étude des tendances pour proposer 3 scénarios et des recommandations fiables.
 
-2 - NORMAL
-Ce qui a été prévu dans le moyen terme
-Le resultat qu'on a déjà
-Limites des systèmes
+1- APOCALYPS (« Comment en est-on arrivé là ? »)
+Point de Départ : L'historique de la croissance et les non-décisions passées.
+Loi d'Échelle (Scaling Laws) : Démonstration, via les lois d'échelle, que nous "fonçons dans le mur"
+Projections Pessimistes : Calculs des tendances futures si rien ne change (volume de données croissant)
+    -Consommation électrique exponentielle.
+    -Émissions de CO2 
+    -Consommation de ressources (eau, minéraux)
+Obstacles Technologiques : Les limites structurelles qui n'ont pas été franchies
+Impacts : Les conséquences du scénario "Apocalyps" sur l'environnement, le social et l'humain88.
 
-3- IDEAL
-Introduction d'une nouvelle technologie (futuriste)
-Impactes positives
+2 - NORMAL (Insuffisancec des progrés actuelle)
+Le Contexte Actuel / Résultats : Ce qui a été prévu ou réalisé à court terme (ex: les petites optimisations, les technologies existantes).
+Limites des Systèmes : Analyse détaillée des plafonds actuels (efficacité énergétique des datacenters, limite des matériaux, etc.).
+Projections Normales : Modélisation montrant que même avec les progrès actuels, la croissance de la demande d'IA dépasse largement l'efficacité (le scénario "normal" reste critique).
+
+3- IDEAL (Solutions et trace un chemin d'action)
+Innovations Secourables : Introduction des progrès scientifiques et des nouvelles technologies (la technologie "futuriste")
+Détail des mécanismes qui réduisent la consommation ou l'empreinte environnementale (ex: hardware plus efficace, nouveaux modèles d'entraînement, etc.)
+Impacts Positifs : Projections et visualisations des résultats du scénario optimiste (réduction drastique de la consommation électrique, d'eau et des émissions de CO2.
+Recommandations d'Actions : Les trois recommandations fiables et actionnables pour le ministre
+    Action 1 (Ex: Réglementation, investissement).
+    Action 2 (Ex: Infrastructure critique).
+    Action 3 (Ex: Partenariat, Green AI).
+
