@@ -1,0 +1,1 @@
+https://data.worldbank.org/indicator/EN.GHG.CO2.MT.CE.AR5

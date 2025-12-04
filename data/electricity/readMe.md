@@ -1,0 +1,1 @@
+https://www.iea.org/data-and-statistics/data-product/world-energy-outlook-2025-free-dataset#data-files
