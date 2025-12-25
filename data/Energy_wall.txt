@@ -1,0 +1,164 @@
+             
+         Energy Wall 
+         “je  me  suis  aperçu  que  quelque  chose  clochait  non  parce  que  j’ai 
+         remarqué une anomalie dans le monde réel, mais parce que je n’arrivais 
+         plus à faire fonctionner Google Maps” - Alexandre Lacroix - avril 2025  
+             
+             
+             
+             
+             
+             
+             
+             
+            Scientifiques discutant dans un wagon de TGV arrêté dans une campagne enneigée lors d'une panne 
+            d'électricité. Image GPT-4o 
+            La réalité est plus étrange que la fiction  
+                                                                                  
+            Ce  lundi  matin  de  décembre  2029,  votre  train  s’arrête  en  pleine 
+            campagne.  Plus  d’électricité.  Dans  le  wagon-bar,  les  esprits 
+            s’échauffent autour de vous. Encore une panne!  
+            Vous faites partie de l’équipe d’experts qui accompagne le ministre 
+            des nouvelles technologies et le PDG de la SCNF à une conférence sur 
+            le  développement  de  l’intelligence  artificielle  et  des  réseaux  de 
+            données souverains.  
+                                                                                  
+                                                                                         _0 
+                          
+                         Au  comptoir  du  wagon-bar,  des  journalistes  qui  se  rendent  à  la 
+                         même conférence, entament un débat sur les risques de défaillance 
+                         de l’infrastructure énergétique liés à la révolution de l’IA.  
+                               -  Ne pouvait-on pas prévoir ces pannes infernales, et anticiper 
+                                     ces coupures d’électricité impromptues?  
+                               -  Ces  technologies  devaient  améliorer  notre  quotidien,  mais 
+                                     l’explosion de la demande ne s’accompagne pas de décisions 
+                                     efficaces! 
+                               -  l’IA          peut-elle               résoudre                elle-même  ce  problème  de 
+                                     surconsommation? 
+                               -  Quelle plaie pour la planète! Les ressources s’épuisent et les 
+                                     émissions de CO  explosent! 
+                                                                       2
+                               -  Génial! Ma connexion réseau mobile fonctionne encore! 
+                         Le ministre vous interpelle: 
+                               -  Il faut absolument revoir tout le contenu de notre présentation 
+                                     pour  la  conférence!  Les  journalistes  nous  attendent  au 
+                                     tournant.  Il  nous  faut  des  recommandations  fiables  et 
+                                     actionnables, et un storytelling cohérent avec les tendances 
+                                     de croissance de consommation énergétique.  
+                                     Rédigez-moi une présentation qui montre comment on en est 
+                                     arrivé  là,  quels  obstacles  technologiques  n’ont  pas  été 
+                                     franchis, quelles innovations et progrès scientifiques peuvent 
+                                     être secourables à court et moyen terme, quel est l’impact sur 
+                                     l’environnement  de  ces technologies (émissions à effet de 
+                                     serre  en  équivalent  CO                                  ,   consommation  de  ressources 
+                                                                                           2 
+                                     naturelles). 
+                         Le train est arrêté pour encore quelques heures. La batterie de votre 
+                         PC est à pleine charge, et le réseau de votre téléphone portable vous 
+                         donne encore accès à internet.  
+                                                                                                                                                                      
+                                                                                                                                                                                     _1 
+             
+            Vous vous isolez en petit groupe (2 ou 3) pour créer la présentation 
+            qui vous est demandée.  
+            Vous  réalisez une veille technologique passant par la recherche de 
+            données et d’articles portant sur la consommation énergétique liée 
+            à l’IA. 
+            Vous créez un notebook pour réaliser des calculs sur vos données, et 
+            générer des graphiques convaincants. 
+            Vous  étudiez  en  particulier  les  lois  d’échelle  (scaling  laws)  qui 
+            permettent d’estimer les tendances de consommation d’énergie en 
+            fonction de la tendance de la demande et des caractéristiques des 
+            systèmes d’IA.  
+            Vous  étudiez  aussi  les  limites  de  ces  systèmes,  et  calculez  une 
+            projection de l’évolution de ces limites : consommation électrique 
+            en fonction du volume de données (à l'entraînement et en inférence), 
+            consommation  d’eau  et  autres  ressources  permettant  à  ces 
+            systèmes de fonctionner, capacité de production, émissions de gaz à 
+            effet de serre, … 
+            Enfin vous présentez trois scénarios (pessimiste, normal, optimiste) 
+            et trois recommandations d’actions pour affronter les crises à venir. 
+                                                                         
+                                        Oups! Image GPT-4o 
+                                                                                  
+                                                                                         _2 
+                        
+                       Pour achever votre travail, vous rédigez une présentation qui reprend 
+                       toutes les demandes du ministre, à travers un storytelling et des 
+                       visualisations de données efficaces.  
+                        
+                       Compétences visées 
+                                                                                                                                                          
+                       ➔ Concevoir et structurer une veille technologique et réglementaire. 
+                       ➔  Synthétiser  les  données  issues  de  la  veille  pour  en  faire  une 
+                       restitution. 
+                       ➔ Recommander des solutions innovantes basées sur les résultats 
+                       de la veille. 
+                       ➔ Gestion de projet et collaboration. 
+                       ➔ Présentation des résultats et recommandations. 
+                       ➔ Analyse de données 
+                       ➔ Modélisation prédictive 
+                       ➔ Data Visualisation / Storytelling 
+                       Rendu 
+                                                                                                                                                          
+                       L’évaluation de ce projet se fera sur deux aspects : 
+                            1.    Une présentation explicative de votre travail sous forme de 
+                                  diapositives. 
+                            2.  Un  repository  github  public  nommé  Energy-wall , contenant 
+                                  les éléments suivants : 
+                                                                                                                                                          
+                                                                                                                                                                      _3 
+                
+                          a.  La  veille  scientifique  et  technologique  réalisée  dans 
+                             votre  fichier  README  (en  plus  du  contexte  du  projet, 
+                             comme à votre habitude). 
+                          b.  Le notebook Jupyter contenant vos calculs préparatoires 
+                             et data-visualisations .  
+                          c.  Votre présentation (format PDF ou Powerpoint ou Google 
+                             Slides). 
+                
+               Base de connaissances 
+                                                                                                   
+               Liens essentiels pour démarrer la veille 
+                  ●  Agence Internationale de l’Énergie (IEA) – données et rapports 
+                      sur  énergie,  data  centers,  IA  et  scénarios  de  transition 
+                      énergétique : 
+                          ○  https://www.iea.org 
+                  ●   Open Power System Data – jeux de données open source sur 
+                      production        et     consommation          d’électricité,     incluant 
+                      renouvelables et indicateurs de marché :  
+                          ○  https://open-power-system-data.org 
+                  ●   World  Bank  Climate  Change  Knowledge  Portal  –  données 
+                      climatiques et indicateurs de vulnérabilité pour relier énergie, 
+                      climat et impact : 
+                          ○   https://climateknowledgeportal.worldbank.org 
+                          ○  https://github.com/worldbank/climateknowledgeportal 
+                                                                                                   
+                                                                                                           _4 
+         
+          ●   GHG  Protocol  –  cadre  méthodologique de référence pour le 
+            calcul des émissions de gaz à effet de serre (Scopes 1, 2, 3) :  
+              ○  https://ghgprotocol.org 
+          ●  The Shift  Project   -  Intelligence artificielle, données, calculs : 
+            quelles infrastructures dans un monde décarboné ? 
+              ○  https://theshiftproject.org/publications/intelligence-artifi
+                cielle-centres-de-donnees-rapport-final/  
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                                        
+                                                            _5 
